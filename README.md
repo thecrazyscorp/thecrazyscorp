@@ -2,8 +2,10 @@
 
 **`Computer Science and Engineering student at North South University`**
 
-I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge (lmao) my dreams and reality✨<br> 
-<img align="center" alt="Anya Forger" src="https://media.tenor.com/f_EOn4JhDZUAAAAM/anya-forger-smile.gif"/>
+I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge (lmao) my dreams and reality✨
+<br><p align="center">
+<img alt="Anya Forger" src="https://media.tenor.com/f_EOn4JhDZUAAAAM/anya-forger-smile.gif"/>
+</p>
 
 ### 🧰 Languages and Tools
 <p align="left">
@@ -17,7 +19,6 @@ I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge
    <img alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
    <img alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>    
 </p>
-<br>
 
 ### 📊 Stats
    ![thecrazyscorp's Stats](https://github-readme-stats.vercel.app/api?username=thecrazyscorp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
