@@ -20,6 +20,6 @@ I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge
 <br>
 
 ### 📊 Stats
-   ![thecrazyscorp's Stats](https://github-readme-stats.vercel.app/api?username=thecrazyscorp&theme=dark&show_icons=true&hide_border=true&count_private=false)<br>
-   ![thecrazyscorp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecrazyscorp&theme=dark&hide_border=true)<br>
-   ![thecrazyscorp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazyscorp&theme=dark&show_icons=true&hide_border=true&layout=compact)
+   ![thecrazyscorp's Stats](https://github-readme-stats.vercel.app/api?username=thecrazyscorp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
+   ![thecrazyscorp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecrazyscorp&theme=tokyonight&hide_border=true)<br>
+   ![thecrazyscorp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazyscorp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
