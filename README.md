@@ -22,5 +22,6 @@ I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge
 #
 ### 📊 Stats
 
-![thecrazyscorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecrazyscorp&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=thecrazyscorp&theme=gruvbox&border_radius=4.5)
+![thecrazyscorp's Stats](https://github-readme-stats.vercel.app/api?username=thecrazyscorp&theme=dark&show_icons=true&hide_border=true&count_private=false)
+![thecrazyscorp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecrazyscorp&theme=dark&hide_border=true)
+![thecrazyscorp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazyscorp&theme=dark&show_icons=true&hide_border=true&layout=compact)
