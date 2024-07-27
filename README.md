@@ -1,14 +1,14 @@
 # Hi, I'm Tamanna 👋
 
-**`Computer Science and Engineering student at North South University `**
+**`Computer Science and Engineering student at North South University`**
 
 I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge (lmao) my dreams and reality✨<br> 
-<img alt="Anya Forger" align="center" src="https://media.tenor.com/f_EOn4JhDZUAAAAM/anya-forger-smile.gif"/>
+<img align="center" alt="Anya Forger" src="https://media.tenor.com/f_EOn4JhDZUAAAAM/anya-forger-smile.gif"/>
 
 ### 🧰 Languages and Tools
-<p align="center">
+<p align="left">
    <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-   <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+   <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
    <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
