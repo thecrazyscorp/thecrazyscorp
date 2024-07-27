@@ -7,8 +7,8 @@ I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge
 <img alt="Anya Forger" src="https://media.tenor.com/f_EOn4JhDZUAAAAM/anya-forger-smile.gif"/>
 </p>
 
-### 🧰 Languages and Tools
-<p align="left">
+<h3 align="center">🧰 Languages and Tools</h3>
+<p align="center">
    <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
    <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
    <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -20,7 +20,9 @@ I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge
    <img alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>    
 </p>
 
-### 📊 Stats
-   ![thecrazyscorp's Stats](https://github-readme-stats.vercel.app/api?username=thecrazyscorp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
-   ![thecrazyscorp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecrazyscorp&theme=tokyonight&hide_border=true)<br>
-   ![thecrazyscorp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazyscorp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<h3 align="center">📊 Stats</h3>
+<p align="center">
+   <img width=390 src="https://github-readme-stats.vercel.app/api?username=thecrazyscorp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"><br>
+   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=thecrazyscorp&theme=tokyonight&hide_border=true"><br>
+   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazyscorp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+</p>
