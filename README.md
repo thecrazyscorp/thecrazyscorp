@@ -1,9 +1,7 @@
-# Hi, I'm Tamanna 👋
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=3EA5F1&center=true&width=435&lines=Hello!;I'm+Tamanna" alt="Typing SVG" /></a></h1>
 
-**`Computer Science and Engineering student at North South University`**
-
-I'm a passionate otaku and kpop fan, what am I doing here? Learning how to merge (lmao) my dreams and reality✨
-<br><p align="center">
+<p align="center">I'm a Computer Science and Engineering sophomore at North South University also a passionate otaku and kpop fan.<br>What am I doing here? Learning how to *merge* my dreams and reality✨
+<br><br>
 <img alt="Anya Forger" src="https://media.tenor.com/f_EOn4JhDZUAAAAM/anya-forger-smile.gif"/>
 </p>
 
